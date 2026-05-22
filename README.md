@@ -10,6 +10,7 @@ Four measurement‑strategy scenarios are implemented to compare the effects of 
 - WIndfarm_simulation_2LIDAR uncertainty.py
 - WIndfarm_simulation_2UAV uncertainty.py
 - WIndfarm_simulation_4UAV uncertainty.py
+
 Each script runs a full Monte Carlo simulation for its respective measurement configuration and outputs the probability distribution of annual energy production.
 
 ## Input files
